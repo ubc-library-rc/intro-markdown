@@ -2,7 +2,7 @@
 
 ## UBC Library Research Commons
 
-Link to workshop: [ubc-library-rc.github.io/intro-jekyll](https://ubc-library-rc.github.io/intro-jekyll/)
+Link to workshop: [ubc-library-rc.github.io/intro-markdown](https://ubc-library-rc.github.io/intro-markdown/)
 
 ## Credits
 
