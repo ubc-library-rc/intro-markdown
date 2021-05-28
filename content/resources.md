@@ -45,7 +45,7 @@ Converting plain text Markdown files into:
 * Table of Contents: [tocdown](https://dohliam.github.io/tocdown/)
 * HTML: [remarkable](https://jonschlinkert.github.io/remarkable/demo/)
 * Documentation: [Just the Docs](https://pmarsceill.github.io/just-the-docs/)
-* Websites: See the [Intro to Jekyll](https://ubc-library-rc.github.io/intro-jekyll/) workshop
+* Websites: See the [Introduction to Jekyll](https://ubc-library-rc.github.io/intro-jekyll/) workshop
   * [Jekyll](https://jekyllrb.com/) - official homepage
 * Nicely formatted email: [Markdown-here](https://markdown-here.com/)
 
