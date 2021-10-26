@@ -6,9 +6,14 @@ parent: Part 2 - Diving deeper
 nav_order: 14
 ---
 
-## Online Markdown editors
+## Markdown guides
 
-In this session we use [Dillinger](https://dillinger.io/), but there are many other online Markdown editors available. Here is a list of some of them:
+* [Markdown Guide](https://www.markdownguide.org/)
+* [Markdown Tutorial](https://www.markdowntutorial.com/)
+
+## Markdown editors
+
+In this session we use the online editor [Dillinger](https://dillinger.io/), but there are many other online Markdown editors available. Here is a list of some of them:
 
 * [Editor.md](https://pandao.github.io/editor.md/en.html) - Open source online Markdown editor
 * [Markdown Editor](https://jbt.github.io/markdown-editor/)
@@ -20,6 +25,9 @@ In this session we use [Dillinger](https://dillinger.io/), but there are many ot
 * [Overleaf](https://www.overleaf.com/) - Online collaborative LaTeX editor
 * [SimpleMDE](https://simplemde.com/) - JavaScript Markdown Editor
 * [Write.md](https://writemd.xyz/)
+* [Zettlr](https://zettlr.com/) - Markdown editor with citation management support
+* [QOwnNotes](https://www.qownnotes.org/) - Free cross-platform markdown note-taking app
+* [MindForger](https://mindforger.com/) - Thinking Notebook and Markdown Editor
 
 ## Import and export formats
 
