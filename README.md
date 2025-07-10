@@ -1,6 +1,4 @@
-# Introduction to Markdown digital workflows
-
-## UBC Library Research Commons
+# Introduction to Markdown Digital Workflows
 
 Link to workshop: [ubc-library-rc.github.io/intro-markdown](https://ubc-library-rc.github.io/intro-markdown/)
 
