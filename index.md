@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# Introduction to Markdown digital workflows
+# Introduction to Markdown Digital Workflows
 
 _[View workshop slides here](https://ubc-library-rc.github.io/intro-markdown/slides/)_
 
